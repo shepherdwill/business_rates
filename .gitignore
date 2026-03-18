@@ -1,0 +1,7 @@
+# VOA bulk data — too large for Git, download via fetch_data.py
+data/raw/
+data/processed/
+
+# Keep reference data and outputs committed
+!data/reference/
+!data/reference/**
